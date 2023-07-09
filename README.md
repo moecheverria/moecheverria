@@ -6,7 +6,7 @@
 - 💻 I use daily a lot of hardware and sensors and code mostly in: **ros**, **python**, **c++**
 - 📖 I am currently reading **Data science on AWS** by Fregly & Barth
 - 💬 Talk to me about crypto, web 3.0, silicon valley & startups
-- 👯 We can connect to play some games of Catan
+- :bowtie: We can connect to play some games of Catan
 - ⚡ Fun fact: Soy de Ecuador, en la mitad del mundo
 - 🧑‍💻 Tech I work on :
 
